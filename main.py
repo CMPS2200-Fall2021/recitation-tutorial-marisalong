@@ -11,3 +11,4 @@ def test_two():
 	assert sum_of_squares([3,4,5]) == 50
 
 test_one()
+test_two()
